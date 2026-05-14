@@ -240,4 +240,3 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 Made with ❤️ by [the-cybercaptain](https://github.com/the-cybercaptain)
 
 </div>
-```
